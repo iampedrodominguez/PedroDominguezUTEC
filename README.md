@@ -1,4 +1,14 @@
-### Hi there 👋
+# Welcome
+Whoever is reading this **I wish you the best** and I hope all of your projects are successful :+1:  
+
+~~To be honest I don't know what to write here~~ In this overview all you need to know is that I'm just a computer science undergrad trying to survive university.  
+
+However just in case you want to know ***more*** you can read two lists of the 3 first things I love and hate the most:
+
+
+
+
+
 
 <!--
 **PedroDominguezUTEC/PedroDominguezUTEC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
